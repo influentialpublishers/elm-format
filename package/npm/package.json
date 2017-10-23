@@ -1,6 +1,6 @@
 {
-  "name": "elm-format",
-  "version": "0.7.0-exp",
+  "name": "@influential/elm-format",
+  "version": "0.7.1-exp",
   "description": "Install elm-format",
   "preferGlobal": true,
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avh4/elm-format.git"
+    "url": "git+https://github.com/influentialpublishers/elm-format.git"
   },
   "keywords": [
     "elm-format"
